@@ -1,0 +1,12 @@
+/*
+CSS Name: Default Styles
+Description: NextGEN Default Gallery Stylesheet
+Author: Imagely
+Version: 2.13
+
+This stylesheet is provided to allow users the ability of overriding the default styles for all display types
+*/
+.ngg-album-link img {box-shadow:0 0 8px 3px #222222;}
+.ngg-album-compactbox {border:0;}
+.ngg-album-compactbox:before {border-bottom:0;}
+.ngg-album-compactbox:after {border-bottom:0;}
